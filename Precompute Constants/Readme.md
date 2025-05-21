@@ -13,3 +13,5 @@ Instead of calculating a value repeatedly during program execution, compute it o
 - Inside real-time loops or interrupts
 - When working with fixed math constants
 - In code that gets called frequently or has tight timing constraints
+
+Preconpute Constants
